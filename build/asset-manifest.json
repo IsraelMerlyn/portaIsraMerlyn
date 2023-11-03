@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bf538fe7.css",
+    "main.js": "/static/js/main.62994c0f.js",
+    "static/media/gifApp.png": "/static/media/gifApp.cd5f0eaafabeb057e8fe.png",
+    "static/media/tecno_dev.png": "/static/media/tecno_dev.c2b1352879d72eb8c563.png",
+    "static/media/app_viajes.png": "/static/media/app_viajes.428bd013285e2dac68af.png",
+    "static/media/me.jpeg": "/static/media/me.ddb80f41921b34e1122e.jpeg",
+    "static/media/API_Biblioteca.png": "/static/media/API_Biblioteca.f16136eac6bb21def496.png",
+    "static/media/apiRest_tareas.png": "/static/media/apiRest_tareas.4f421bd74872d20bb142.png",
+    "static/media/IsraelMerlyn.png": "/static/media/IsraelMerlyn.5f109eb80b1544faa406.png",
+    "static/media/app_Calculadora.png": "/static/media/app_Calculadora.6d57e28081bdd477ffb6.png",
+    "static/media/proyecto-Tareas.png": "/static/media/proyecto-Tareas.330ea092171688bc59b9.png",
+    "static/media/diario_app.png": "/static/media/diario_app.703aac683b6204ef8aa7.png",
+    "index.html": "/index.html",
+    "main.bf538fe7.css.map": "/static/css/main.bf538fe7.css.map",
+    "main.62994c0f.js.map": "/static/js/main.62994c0f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.62994c0f.js"
+  ]
+}
