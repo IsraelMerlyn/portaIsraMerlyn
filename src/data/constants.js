@@ -291,7 +291,7 @@ export const projects = [
     image:
      app_clima ,
     tags: ["Flutter / Dart", "API", "Material UI 3", "Git",],
-    category: "machine learning",
+    category: "android app",
     github: "https://github.com/IsraelMerlyn/clima_",
     webapp: "https://github.com/IsraelMerlyn/clima_",
   },
