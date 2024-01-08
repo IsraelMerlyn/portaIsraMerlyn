@@ -7,6 +7,7 @@ import APP_VIAJE from "../images/app_viajes.png"
 import CALCULADORA from "../images/app_Calculadora.png"
 import GITWEB from "../images/gifApp.png"
 import TecnoDev from "../images/tecno_dev.png"
+import app_clima from "../images/app_clima.png"
 export const Bio = {
   name: "Josue Vasquez",
   roles: [
@@ -281,6 +282,19 @@ export const education = [
 ];
 
 export const projects = [
+  {
+    id: 10,
+    title: "Aplicacion de Clima",
+    date: "Enero 2024",
+    description:
+      "Aplicacion Movil consumiento una API weather, realizada en la v 3.3 Flutter",
+    image:
+     app_clima ,
+    tags: ["Flutter / Dart", "API", "Material UI 3", "Git",],
+    category: "machine learning",
+    github: "https://github.com/IsraelMerlyn/clima_",
+    webapp: "https://github.com/IsraelMerlyn/clima_",
+  },
   {
     id: 9,
     title: "Notas Diario",
