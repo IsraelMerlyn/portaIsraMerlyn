@@ -8,6 +8,11 @@ import CALCULADORA from "../images/app_Calculadora.png"
 import GITWEB from "../images/gifApp.png"
 import TecnoDev from "../images/tecno_dev.png"
 import app_clima from "../images/app_clima.png"
+import MaterialUI from "../images/materialUI.png"
+import MaterialUI_ from "../images/materialUI_.png"
+import maquetadoFlutter from "../images/diseno_ecommerce.png"
+
+
 export const Bio = {
   name: "Josue Vasquez",
   roles: [
@@ -19,7 +24,7 @@ export const Bio = {
     "soy ing. en sistemas computacionales, me gusta aprender las nuevas tecnologias",
   github: "https://www.linkedin.com/in/josuevasquez/",
   resume:
-    "https://drive.google.com/file/d/1zoeY_YHf7bwQVk_xfUfXw_5qGjpGHp97/view?usp=sharing",
+    "https://drive.google.com/file/d/18HD6KKNOLTglzKOov-pH3vxbdtbknADm/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/josuevasquez/",
   
   insta: "",
@@ -186,6 +191,25 @@ export const experiences = [
   {
     id: 0,
     // img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
+    role: "Bootcamp IOS (swiftUI | UIKit) | Flutter",
+    company: "Cursos Udemy - EN PROCESO",
+    date: "Enero 2024",
+    desc: "Maquetado flutter| IOS, Manejador de estados, consumo de Apis e integracion con firebase",
+    skills: [
+      "CoreData | SwiftData",
+      "Flutter | Dart",
+      "Swift",
+      "Firebase",
+      "Consumo de APIs",
+      "Patron MVC | MVVM y Arquitectura Limpia",
+      "Provider",
+      
+    ],
+    // doc: "https://media.licdn.com/dms/image/D4D2DAQFlp60ZqHuaFQ/profile-treasury-image-shrink_1280_1280/0/1691180828512?e=1692381600&v=beta&t=mM5Y_NE5EPlQhez5FAN6NLVSKcO_Ojt_9Gq3mnFGkAQ",
+  },
+  {
+    id: 1,
+    // img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
     role: "FullStack Trainee",
     company: "CITI Value in Real Time",
     date: "Mayo 2023 - Agosto 2023",
@@ -203,7 +227,7 @@ export const experiences = [
     // doc: "https://media.licdn.com/dms/image/D4D2DAQFlp60ZqHuaFQ/profile-treasury-image-shrink_1280_1280/0/1691180828512?e=1692381600&v=beta&t=mM5Y_NE5EPlQhez5FAN6NLVSKcO_Ojt_9Gq3mnFGkAQ",
   },
   {
-    id: 0,
+    id: 2,
     // img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/neurobit.jpeg?alt=media&token=1cacbb7b-e5ea-4efb-9b3d-f5a31b9564ad",
     role: "Becario FrontEnd",
     company: "INXENIUX",
@@ -221,7 +245,7 @@ export const experiences = [
     doc: "",
   },
   {
-    id: 1,
+    id: 3,
     // img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
     role: "Becario FrontEnd",
     company: "BIOSARTTI",
@@ -236,7 +260,7 @@ export const experiences = [
     ],
   },
   {
-    id: 2,
+    id: 4,
     // img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/girlScript.jpeg?alt=media&token=e656a621-cf3c-4230-bf0f-e74b4cec6035",
     role: "RESIDENTE PROFESIONAL",
     company: "BITFX",
@@ -265,7 +289,7 @@ export const education = [
     // img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Kiit.jpeg?alt=media&token=3839d520-c59d-4341-ad8f-0980c98de4dd",
     school: "Instituto Tecnologico de Tlaxiaco",
     date: "Agt 2017 - Julio 2022",
-    grade: "8.5 ",
+    // grade: "8.5 ",
     desc: "Actualmente estoy titulado en ing.sistemas computacionales. En el transcurso de mis estudios aprendi las bases de Gestion de proyectos, Programacion web, UI/UX, Gestion de BD, asi como Desarrollo de API y desarrollo movil",
     degree: "Desarrollo de Software",
   },
@@ -274,7 +298,7 @@ export const education = [
     // img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/methodist.png?alt=media&token=018a1b18-e2dd-4f34-8855-cff1b6b69fd3",
     school: "Cobao Plantel #53",
     date: "Apr 2019 - Apr 2025",
-    grade: "88.2%",
+    // grade: "88.2%",
     desc: "Complete mi educacion con conocimientos en TIC's",
     degree: "Tecnologia de la Informacion y Cominicacion (Tic's)",
   },
@@ -282,6 +306,19 @@ export const education = [
 ];
 
 export const projects = [
+  {
+    id: 12,
+    title: "Maquetado App Flutter",
+    date: "Enero 2024",
+    description:
+      "Maquetado de una app en flutter con funcionalidad de agregar al carrito, elimiar con modales, alertas y validacion",
+    image:
+   maquetadoFlutter,
+    tags: ["Flutter | Dart", "Provider","Material 3", "Git",],
+    category: "android app",
+    github: "https://github.com/IsraelMerlyn/israelmerlyn_ecommerce",
+    webapp: "https://github.com/IsraelMerlyn/israelmerlyn_ecommerce",
+  },
   {
     id: 10,
     title: "Aplicacion de Clima",
@@ -294,6 +331,19 @@ export const projects = [
     category: "android app",
     github: "https://github.com/IsraelMerlyn/clima_",
     webapp: "https://github.com/IsraelMerlyn/clima_",
+  },
+  {
+    id: 11,
+    title: "Pagina Web",
+    date: "Agosto 2023",
+    description:
+      "Pagina web de componentes de material UI, practica personal para ver el uso de material UI con react js",
+    image:
+    MaterialUI, MaterialUI_,
+    tags: ["React JS | Redux | Provider", "API Ryck and Morty", "Material UI", "Git",],
+    category: "web app",
+    github: "https://github.com/IsraelMerlyn/app-materialUI",
+    webapp: "https://israelmerlyn.github.io/skeleton",
   },
   {
     id: 9,
@@ -315,6 +365,60 @@ export const projects = [
     category: "web app",
     github: "https://github.com/IsraelMerlyn/diario_app_react",
     webapp: "https://israelmerlyn.github.io/auth/login",
+  },
+  
+  {
+    id: 2,
+    title: "Tareas con prioridad",
+    date: "Jan 2023 - Mar 2023",
+    description:
+      "Backend con springboot 2, tareas con prioridad",
+    image:
+      TAREA,
+    tags: ["SpringBoot 2", "Java 8", "React", "Axios", "MySQL", "React", "Swagger 2",
+    "Documentacion de API"],
+    category: "web app",
+    github: "https://github.com/IsraelMerlyn/tareasCliente",
+    webapp: "https://github.com/IsraelMerlyn/tareasCliente",
+    // member: [
+    //   {
+    //     name: "Rishav Chanda",
+    //     img: "https://avatars.githubusercontent.com/u/64485885?v=4",
+    //     linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
+    //     github: "https://github.com/rishavchanda/",
+    //   },
+    //   {
+    //     name: "Upasana Chaudhuri",
+    //     img: "https://avatars.githubusercontent.com/u/100614635?v=4",
+    //     linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
+    //     github: "https://github.com/upasana0710",
+    //   },
+    // ],
+  },
+  {
+    id: 3,
+    title: "App Viajes",
+    date: "Agosto 2023",
+    description:
+      "Aplicacion de viajes, te muestra lugares turisticos asi mismo lugares que desconocemos",
+    image: APP_VIAJE,
+    tags: ["Flutter", "MVVM", "Firebase", "dart"],
+    category: "android app",
+    github: "https://github.com/IsraelMerlyn/tlaxiaco_travel_app",
+    webapp: "https://github.com/IsraelMerlyn/tlaxiaco_travel_app",
+  },
+  {
+    id: 10,
+    title: "Calculadora",
+    date: "Agosto 2023",
+    description:
+      "A Job Finding App made with React Native, Axios. Users can search for any job coming from API and apply there.",
+    image:
+      CALCULADORA,
+    tags: ["React Native", "JavaScript", "Axios", "Provider"],
+    category: "android app",
+    github: "https://github.com/IsraelMerlyn/calculadora-RN",
+    webapp: "https://github.com/IsraelMerlyn/calculadora-RN",
   },
   {
     id: 0,
@@ -363,59 +467,6 @@ export const projects = [
     category: "web app",
     github: "https://github.com/IsraelMerlyn/tareas_APIrest",
     webapp: "https://github.com/IsraelMerlyn/tareas_APIrest",
-  },
-  {
-    id: 2,
-    title: "Tareas con prioridad",
-    date: "Jan 2023 - Mar 2023",
-    description:
-      "Preprocessed and augmented the dataset to improve model accuracy, trained the model, created API using model and Python, and used React web app for the project's front end. Achievements: Achieved an accuracy of 99.2% to accurately detect brain tumors from medical images.",
-    image:
-      TAREA,
-    tags: ["SpringBoot 2", "Java 8", "React", "Axios", "MySQL", "React", "Swagger 2",
-    "Documentacion de API"],
-    category: "web app",
-    github: "https://github.com/IsraelMerlyn/tareasCliente",
-    webapp: "https://github.com/IsraelMerlyn/tareasCliente",
-    // member: [
-    //   {
-    //     name: "Rishav Chanda",
-    //     img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-    //     linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-    //     github: "https://github.com/rishavchanda/",
-    //   },
-    //   {
-    //     name: "Upasana Chaudhuri",
-    //     img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-    //     linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-    //     github: "https://github.com/upasana0710",
-    //   },
-    // ],
-  },
-  {
-    id: 3,
-    title: "App Viajes",
-    date: "Agosto 2023",
-    description:
-      "Aplicacion de viajes, te muestra lugares turisticos asi mismo lugares que desconocemos",
-    image: APP_VIAJE,
-    tags: ["Flutter", "MVVM", "Firebase", "dart"],
-    category: "android app",
-    github: "https://github.com/IsraelMerlyn/tlaxiaco_travel_app",
-    webapp: "https://github.com/IsraelMerlyn/tlaxiaco_travel_app",
-  },
-  {
-    id: 10,
-    title: "Calculadora",
-    date: "Agosto 2023",
-    description:
-      "A Job Finding App made with React Native, Axios. Users can search for any job coming from API and apply there.",
-    image:
-      CALCULADORA,
-    tags: ["React Native", "JavaScript", "Axios", "Provider"],
-    category: "android app",
-    github: "https://github.com/IsraelMerlyn/calculadora-RN",
-    webapp: "https://github.com/IsraelMerlyn/calculadora-RN",
   },
   {
     id: 4,

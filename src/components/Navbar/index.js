@@ -25,7 +25,7 @@ const Navbar = () => {
         </MobileIcon>
         <NavItems>
           <NavLink href="#about">Acerca</NavLink>
-          <NavLink href='#education'>Education</NavLink>
+          <NavLink href='#education'>Educacion</NavLink>
 
           <NavLink href='#skills'>Skills</NavLink>
           <NavLink href='#experience'>Experiencia</NavLink>
