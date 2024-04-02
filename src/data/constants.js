@@ -21,7 +21,7 @@ export const Bio = {
    
   ],
   description:
-    "soy ing. en sistemas computacionales, me gusta aprender las nuevas tecnologias",
+    "Hola, mi me llamo Josue Vasquez y soy un apasionado programador web con 1 años de experiencia. Me especializo en front-end y me encanta crear soluciones web innovadoras y eficientes. Te invito a explorar mi portafolio y descubrir mis proyectos más recientes.",
   github: "https://www.linkedin.com/in/josuevasquez/",
   resume:
     "https://drive.google.com/file/d/18HD6KKNOLTglzKOov-pH3vxbdtbknADm/view?usp=sharing",
@@ -188,6 +188,25 @@ export const skills = [
 ];
 
 export const experiences = [
+  {
+    id: 0,
+    // img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
+    role: "Docente de asignatura 'A' ",
+    company: "Unidad Academica El camaron Yautepec, TECNM San Miguel el Grande",
+    date: "Febero 2024 - Actualidad",
+    desc: "Docente de Ing. Administracion e Ing. Tic's",
+    skills: [
+      
+      "Flutter | Dart",
+      "Swift",
+      "Firebase",
+      "Consumo de APIs",
+      "Patron MVC | MVVM y Arquitectura Limpia",
+      "Java (springBoot)",
+      
+    ],
+    // doc: "https://media.licdn.com/dms/image/D4D2DAQFlp60ZqHuaFQ/profile-treasury-image-shrink_1280_1280/0/1691180828512?e=1692381600&v=beta&t=mM5Y_NE5EPlQhez5FAN6NLVSKcO_Ojt_9Gq3mnFGkAQ",
+  },
   {
     id: 0,
     // img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
