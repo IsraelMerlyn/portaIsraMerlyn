@@ -21,7 +21,7 @@ export const Bio = {
    
   ],
   description:
-    "Hola, mi me llamo Josue Vasquez y soy un apasionado programador web con 1 años de experiencia. Me especializo en front-end y me encanta crear soluciones web innovadoras y eficientes. Te invito a explorar mi portafolio y descubrir mis proyectos más recientes.",
+    "Hola, me llamo Josue Vasquez y soy un apasionado programador con 1 años de experiencia. Tengo experiencia como FullStack (React/ Springboot/ Flutter)  y me encanta crear soluciones innovadoras y eficientes. Te invito a explorar mi portafolio y descubrir mis proyectos más recientes.",
   github: "https://www.linkedin.com/in/josuevasquez/",
   resume:
     "https://drive.google.com/file/d/18HD6KKNOLTglzKOov-pH3vxbdtbknADm/view?usp=sharing",
@@ -210,7 +210,7 @@ export const experiences = [
   {
     id: 0,
     // img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
-    role: "Bootcamp IOS (swiftUI | UIKit) | Flutter",
+    role: "IOS (swiftUI | UIKit) | Flutter",
     company: "Cursos Udemy - EN PROCESO",
     date: "Enero 2024",
     desc: "Maquetado flutter| IOS, Manejador de estados, consumo de Apis e integracion con firebase",
