@@ -21,7 +21,7 @@ export const Bio = {
    
   ],
   description:
-    "Hola, me llamo Josue Vasquez y soy un apasionado programador con 1 años de experiencia. Tengo experiencia como FullStack (React/ Springboot/ Flutter)  y me encanta crear soluciones innovadoras y eficientes. Te invito a explorar mi portafolio y descubrir mis proyectos más recientes.",
+    "Soy un apasionado programador con 1 años de experiencia. Tengo experiencia como FullStack (React/ Springboot/ Flutter)  y me encanta crear soluciones innovadoras y eficientes. Te invito a explorar mi portafolio y descubrir mis proyectos más recientes.",
   github: "https://www.linkedin.com/in/josuevasquez/",
   resume:
     "https://drive.google.com/file/d/18HD6KKNOLTglzKOov-pH3vxbdtbknADm/view?usp=sharing",
