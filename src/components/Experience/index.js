@@ -93,7 +93,7 @@ const index = () => {
                                 <TimelineContent sx={{ py: '12px', px: 2 }}>
                                     <ExperienceCard experience={experience}/>
                                 </TimelineContent>
-                            </TimelineItem>
+                            </TimelineItem> 
                         ))}
                     </Timeline>
 
