@@ -192,9 +192,28 @@ export const experiences = [
     id: 0,
     // img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
     role: "Docente de asignatura 'A' ",
-    company: "Unidad Academica El camaron Yautepec, TECNM San Miguel el Grande",
+    company: "Instituto Tecnologico Superior de San Miguel el Grande",
     date: "Febero 2024 - Actualidad",
-    desc: "Docente de Ing. Administracion e Ing. Tic's",
+    desc: "Docente en Ing. En Tic's",
+    skills: [
+
+      "Flutter | Dart",
+      "Swift",
+      "Firebase",
+      "Consumo de APIs",
+      "Patron MVC | MVVM y Arquitectura Limpia",
+      "Java (springBoot)",
+
+    ],
+    // doc: "https://media.licdn.com/dms/image/D4D2DAQFlp60ZqHuaFQ/profile-treasury-image-shrink_1280_1280/0/1691180828512?e=1692381600&v=beta&t=mM5Y_NE5EPlQhez5FAN6NLVSKcO_Ojt_9Gq3mnFGkAQ",
+  },
+  {
+    id: 0,
+    // img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
+    role: "Docente de asignatura 'A' ",
+    company: "Instituto Tecnologico Superior de San Miguel el Grande",
+    date: "Febero 2024 - Actualidad",
+    desc: "Docente de Ing. En Administracion",
     skills: [
       
       "Flutter | Dart",
@@ -211,7 +230,7 @@ export const experiences = [
     id: 0,
     // img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
     role: "IOS (swiftUI | UIKit) | Flutter",
-    company: "Cursos Udemy - EN PROCESO",
+    company: "EN PROCESO",
     date: "Enero 2024",
     desc: "Maquetado flutter| IOS, Manejador de estados, consumo de Apis e integracion con firebase",
     skills: [
