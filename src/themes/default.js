@@ -6,15 +6,15 @@ export default {
     },
     // Colors for layout
     colors: {
-      primary1: "#854CE6",
-      background1: "#222A35",
-      button: "#854CE6",
-      background2: "#19212C",
+      primary1: "#212d4a",
+      background1: "#212d4a",
+      button: "#5a8fd7",
+      background2: "#e9f1fa",
       text: "#C8CFD8",
-      text1: "#F2F5F7",
-      text2: "#626970",
-      text3: "#575C66",
-      footerBackground: "#00012B"
+      text1: "#212d4a",
+      text2: "#212d4a",
+      text3: "#212d4a",
+      footerBackground: "#e9f1fa"
     },
     // Breakpoints for responsive design
     breakpoints: {
