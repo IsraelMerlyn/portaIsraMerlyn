@@ -194,7 +194,7 @@ export const experiences = [
     role: "Docente de asignatura 'A' ",
     company: "Instituto Tecnologico Superior de San Miguel el Grande",
     date: "Febero 2024 - Actualidad",
-    desc: "Docente en Ing. En Tic's",
+    desc: "Docente en Ing. En Tic's, Planeacion de clases, Metodologia de enseñanza ",
     skills: [
 
       "Flutter | Dart",
@@ -213,7 +213,7 @@ export const experiences = [
     role: "Docente de asignatura 'A' ",
     company: "Instituto Tecnologico Superior de San Miguel el Grande",
     date: "Febero 2024 - Actualidad",
-    desc: "Docente de Ing. En Administracion",
+    desc: "Docente de Ing. En Administracion, Planeacion de clases, Metodologia de enseñanza ",
     skills: [
       
       "Flutter | Dart",
