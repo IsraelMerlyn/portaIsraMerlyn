@@ -120,6 +120,35 @@ const ContactButton = styled.input`
   font-weight: 600;
 `
 
+const Nav = styled.nav`
+  width: 100%;
+  max-width: 800px;
+  margin-top: 0.5rem;
+  display: flex;
+  flex-direction: row;
+  gap: 2rem;
+  justify-content: center;
+  @media (max-width: 768px) {
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: center;
+    text-align: center;
+    font-size: 12px;
+  }
+`;
+
+const NavLink = styled.a`
+color: ${({ theme }) => theme.text_primary};
+  text-decoration: none;
+  font-size: 1.2rem;
+  transition: color 0.2s ease-in-out;
+  &:hover {
+    color: ${({ theme }) => theme.primary};
+  }
+  @media (max-width: 768px) {
+    font-size: 1rem;
+  }
+`;
 
 
 const Contact = () => {
@@ -146,14 +175,32 @@ const Contact = () => {
       <Wrapper>
         <Title>Contactame</Title>
         <Desc>¡No dudes en comunicarte conmigo si tienes alguna pregunta u oportunidad!</Desc>
-        <ContactForm ref={form} onSubmit={handleSubmit}>
+        
+        {/* <ContactForm ref={form} onSubmit={handleSubmit}>
           <ContactTitle>Email</ContactTitle>
           <ContactInput placeholder="Your Email" name="from_email" />
           <ContactInput placeholder="Your Name" name="from_name" />
           <ContactInput placeholder="Subject" name="subject" />
           <ContactInputMessage placeholder="Message" rows="4" name="message" />
           {/* <ContactButton type="submit" value="Send" /> */}
-        </ContactForm>
+        {/* </ContactForm> */}
+         {/* */} 
+
+         <Nav>
+          <NavLink>Numero </NavLink>
+          <NavLink >{"              "} </NavLink>
+          <NavLink >Correo </NavLink>
+         
+
+          
+        </Nav>
+        <Nav>
+          <NavLink>9514940433</NavLink>
+
+          <NavLink >isramerlyn@gmail.com</NavLink>
+
+         
+        </Nav>
         <Snackbar
           open={open}
           autoHideDuration={6000}
@@ -161,6 +208,7 @@ const Contact = () => {
           message="Email sent successfully!"
           severity="success"
         />
+
       </Wrapper>
     </Container>
   )
