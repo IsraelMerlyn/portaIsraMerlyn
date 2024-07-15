@@ -32,9 +32,12 @@ const Navbar = () => {
           <NavLink href='#projects'>Proyectos</NavLink>
           
         </NavItems>
-        {/* <ButtonContainer>
+        {
+         <ButtonContainer>
           <GitHubButton href={Bio.github} target="_blank">Github Profile</GitHubButton>
-        </ButtonContainer> */}
+          <GitHubButton href={Bio.linkedin} target="_blank">linkedin </GitHubButton>
+        </ButtonContainer> 
+        }
         {
           isOpen &&
           <MobileMenu isOpen={isOpen}>

@@ -22,7 +22,7 @@ export const Bio = {
   ],
   description:
     "Soy un apasionado programador con 1 año de experiencia. FullStack (React/ Springboot/ Flutter)  y me encanta crear soluciones innovadoras y eficientes. Te invito a explorar mi portafolio y descubrir mis proyectos más recientes.",
-  github: "https://www.linkedin.com/in/josuevasquez/",
+  github: "https://github.com/IsraelMerlyn",
   resume:
     "https://drive.google.com/file/d/18HD6KKNOLTglzKOov-pH3vxbdtbknADm/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/josuevasquez/",
@@ -351,7 +351,7 @@ export const projects = [
     description:
       "Maquetado de una app en flutter con funcionalidad de agregar al carrito, elimiar con modales, alertas y validacion",
     image:
-   maquetadoFlutter,
+   "https://i.ibb.co/DtdYLmd/diseno-ecommerce.png",
     tags: ["Flutter | Dart", "Provider","Material 3", "Git",],
     category: "android app",
     github: "https://github.com/IsraelMerlyn/israelmerlyn_ecommerce",
@@ -364,7 +364,7 @@ export const projects = [
     description:
       "Aplicacion Movil consumiento una API weather, realizada en la v 3.3 Flutter",
     image:
-     app_clima ,
+     "https://i.ibb.co/mb5NsWF/app-clima.png",
     tags: ["Flutter / Dart", "API", "Material UI 3", "Git",],
     category: "android app",
     github: "https://github.com/IsraelMerlyn/clima_",
@@ -372,16 +372,16 @@ export const projects = [
   },
   {
     id: 11,
-    title: "Pagina Web",
+    title: "Carrito de compras",
     date: "Agosto 2023",
     description:
-      "Pagina web de componentes de material UI, practica personal para ver el uso de material UI con react js",
+      "Pagina web ",
     image:
-    MaterialUI, MaterialUI_,
-    tags: ["React JS | Redux | Provider", "API Ryck and Morty", "Material UI", "Git",],
+    "https://i.ibb.co/TPL6kSh/Home.png",
+    tags: ["React JS | Redux | Provider", "", "Material UI", "Git",],
     category: "web app",
-    github: "https://github.com/IsraelMerlyn/app-materialUI",
-    webapp: "https://israelmerlyn.github.io/skeleton",
+    github: "https://github.com/IsraelMerlyn/tienda-guitarra",
+    webapp: "https://productos-guitarra.netlify.app",
   },
   {
     id: 9,
@@ -390,7 +390,7 @@ export const projects = [
     description:
       "App de Diario, Consumo de API y Autenticacion con firebase",
     image:
-     DIARIO,
+     "https://i.ibb.co/02CtWBv/diario-app.png",
     tags: [
       "Netlify",
       "Firebase",
@@ -492,7 +492,7 @@ export const projects = [
     description:
       "APIRest de TODO",
     image:
-    API_Tarea,
+    "https://i.ibb.co/DKJsbHH/api-Rest-tareas.png",
     tags: [
       "SpringBoot",
       "Postman",
