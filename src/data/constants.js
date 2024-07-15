@@ -345,6 +345,19 @@ export const education = [
 
 export const projects = [
   {
+    id: 11,
+    title: "Carrito de compras",
+    date: "Julio 2024",
+    description:
+      "Pagina web ",
+    image:
+    "https://i.ibb.co/TPL6kSh/Home.png",
+    tags: ["React JS | Redux | Provider", "Git",],
+    category: "web app",
+    github: "https://github.com/IsraelMerlyn/tienda-guitarra",
+    webapp: "https://productos-guitarra.netlify.app",
+  },
+  {
     id: 12,
     title: "Maquetado App Flutter",
     date: "Enero 2024",
@@ -370,19 +383,7 @@ export const projects = [
     github: "https://github.com/IsraelMerlyn/clima_",
     webapp: "https://github.com/IsraelMerlyn/clima_",
   },
-  {
-    id: 11,
-    title: "Carrito de compras",
-    date: "Agosto 2023",
-    description:
-      "Pagina web ",
-    image:
-    "https://i.ibb.co/TPL6kSh/Home.png",
-    tags: ["React JS | Redux | Provider", "", "Material UI", "Git",],
-    category: "web app",
-    github: "https://github.com/IsraelMerlyn/tienda-guitarra",
-    webapp: "https://productos-guitarra.netlify.app",
-  },
+  
   {
     id: 9,
     title: "Notas Diario",
