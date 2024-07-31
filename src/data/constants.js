@@ -345,6 +345,19 @@ export const education = [
 
 export const projects = [
   {
+    id: 14,
+    title: "Pagina Web Restaurante",
+    date: "Julio 2024",
+    description:
+      "Pagina web de un restaurante",
+    image:
+    "https://i.ibb.co/jVvbJzd/Screenshot-2024-07-31-101852.png",
+    tags: ["React JS | Redux", "Git",],
+    category: "web app",
+    github: "https://github.com/IsraelMerlyn/paginaweb_restaurante",
+    webapp: "https://restauranteisraelmerlyn.netlify.app/",
+  },
+  {
     id: 11,
     title: "Carrito de compras",
     date: "Julio 2024",
