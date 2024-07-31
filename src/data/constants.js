@@ -353,7 +353,7 @@ export const projects = [
     image:
     "https://i.ibb.co/jVvbJzd/Screenshot-2024-07-31-101852.png",
     tags: ["React JS | Redux", "Git",],
-    category: "web app",
+    category: "machine learning",
     github: "https://github.com/IsraelMerlyn/paginaweb_restaurante",
     webapp: "https://restauranteisraelmerlyn.netlify.app/",
   },
@@ -370,19 +370,19 @@ export const projects = [
     github: "https://github.com/IsraelMerlyn/tienda-guitarra",
     webapp: "https://productos-guitarra.netlify.app",
   },
-  {
-    id: 12,
-    title: "Maquetado App Flutter",
-    date: "Enero 2024",
-    description:
-      "Maquetado de una app en flutter con funcionalidad de agregar al carrito, elimiar con modales, alertas y validacion",
-    image:
-   "https://i.ibb.co/DtdYLmd/diseno-ecommerce.png",
-    tags: ["Flutter | Dart", "Provider","Material 3", "Git",],
-    category: "android app",
-    github: "https://github.com/IsraelMerlyn/israelmerlyn_ecommerce",
-    webapp: "https://github.com/IsraelMerlyn/israelmerlyn_ecommerce",
-  },
+  // {
+  //   id: 12,
+  //   title: "Maquetado App Flutter",
+  //   date: "Enero 2024",
+  //   description:
+  //     "Maquetado de una app en flutter con funcionalidad de agregar al carrito, elimiar con modales, alertas y validacion",
+  //   image:
+  //  "https://i.ibb.co/DtdYLmd/diseno-ecommerce.png",
+  //   tags: ["Flutter | Dart", "Provider","Material 3", "Git",],
+  //   category: "android app",
+  //   github: "https://github.com/IsraelMerlyn/israelmerlyn_ecommerce",
+  //   webapp: "https://github.com/IsraelMerlyn/israelmerlyn_ecommerce",
+  // },
   {
     id: 10,
     title: "Aplicacion de Clima",
