@@ -188,12 +188,31 @@ export const skills = [
 ];
 
 export const experiences = [
+
+  {
+    id: 0,
+    // img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
+    role: "Gestion de Proyectos",
+    company: "La tlaxiaqueña 91.5",
+    date: "Septiembre - Actualidad",
+    desc: "Encargado del Desarrollo de una aplicacion movil, asi como el desarrollo de la experiencia de usuario y  el rediseño de la pagina web ",
+    skills: [
+
+      "Java | Kotlin",
+      "Firebase",
+      "Consumo de APIs",
+      "Patron MVC | MVVM y Arquitectura Limpia",
+      "Gestion de Proyectos (SCRUM), Jira Software",
+
+    ],
+    // doc: "https://media.licdn.com/dms/image/D4D2DAQFlp60ZqHuaFQ/profile-treasury-image-shrink_1280_1280/0/1691180828512?e=1692381600&v=beta&t=mM5Y_NE5EPlQhez5FAN6NLVSKcO_Ojt_9Gq3mnFGkAQ",
+  },
   {
     id: 0,
     // img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
     role: "Docente de asignatura 'A' ",
     company: "Instituto Tecnologico Superior de San Miguel el Grande",
-    date: "Febero 2024 - Actualidad",
+    date: "Febero - Junio 2024",
     desc: "Docente en Ing. En Tic's",
     skills: [
 
@@ -212,7 +231,7 @@ export const experiences = [
     // img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
     role: "Docente de asignatura 'A' ",
     company: "Instituto Tecnologico Superior de San Miguel el Grande",
-    date: "Febero 2024 - Actualidad",
+    date: "Febero - Junio 2024",
     desc: "Docente de Ing. En Administracion",
     skills: [
       
