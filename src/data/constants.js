@@ -208,66 +208,9 @@ export const experiences = [
     // doc: "https://media.licdn.com/dms/image/D4D2DAQFlp60ZqHuaFQ/profile-treasury-image-shrink_1280_1280/0/1691180828512?e=1692381600&v=beta&t=mM5Y_NE5EPlQhez5FAN6NLVSKcO_Ojt_9Gq3mnFGkAQ",
   },
   {
-    id: 0,
-    // img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
-    role: "Docente de asignatura 'A' ",
-    company: "Instituto Tecnologico Superior de San Miguel el Grande",
-    date: "Febero - Junio 2024",
-    desc: "Docente en Ing. En Tic's",
-    skills: [
-
-      "Flutter | Dart",
-      "Swift",
-      "Firebase",
-      "Consumo de APIs",
-      "Patron MVC | MVVM y Arquitectura Limpia",
-      "Java (springBoot)",
-
-    ],
-    // doc: "https://media.licdn.com/dms/image/D4D2DAQFlp60ZqHuaFQ/profile-treasury-image-shrink_1280_1280/0/1691180828512?e=1692381600&v=beta&t=mM5Y_NE5EPlQhez5FAN6NLVSKcO_Ojt_9Gq3mnFGkAQ",
-  },
-  {
-    id: 0,
-    // img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
-    role: "Docente de asignatura 'A' ",
-    company: "Instituto Tecnologico Superior de San Miguel el Grande",
-    date: "Febero - Junio 2024",
-    desc: "Docente de Ing. En Administracion",
-    skills: [
-      
-      "Flutter | Dart",
-      "Swift",
-      "Firebase",
-      "Consumo de APIs",
-      "Patron MVC | MVVM y Arquitectura Limpia",
-      "Java (springBoot)",
-      
-    ],
-    // doc: "https://media.licdn.com/dms/image/D4D2DAQFlp60ZqHuaFQ/profile-treasury-image-shrink_1280_1280/0/1691180828512?e=1692381600&v=beta&t=mM5Y_NE5EPlQhez5FAN6NLVSKcO_Ojt_9Gq3mnFGkAQ",
-  },
-  {
-    id: 0,
-    // img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
-    role: "IOS (swiftUI | UIKit) | Flutter",
-    company: "EN PROCESO",
-    date: "Enero 2024",
-    desc: "Maquetado flutter| IOS, Manejador de estados, consumo de Apis e integracion con firebase",
-    skills: [
-      "CoreData | SwiftData",
-      "Flutter | Dart",
-      "Swift",
-      "Firebase",
-      "Consumo de APIs",
-      "Patron MVC | MVVM y Arquitectura Limpia",
-      "Provider",
-      
-    ],
-    // doc: "https://media.licdn.com/dms/image/D4D2DAQFlp60ZqHuaFQ/profile-treasury-image-shrink_1280_1280/0/1691180828512?e=1692381600&v=beta&t=mM5Y_NE5EPlQhez5FAN6NLVSKcO_Ojt_9Gq3mnFGkAQ",
-  },
-  {
     id: 1,
     // img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
-    role: "FullStack Trainee",
+    role: "Backend Java",
     company: "CITI Value in Real Time",
     date: "Mayo 2023 - Agosto 2023",
     desc: "API's Rest, Modificacion de Vistas, Documentacion Tecnica",
@@ -337,6 +280,48 @@ export const experiences = [
     ],
     // doc: "https://media.licdn.com/dms/image/D4D22AQGzSpgFaR4hsQ/feedshare-shrink_800/0/1684079632872?e=1687996800&v=beta&t=i0xWn_k32Oj9SxKfc6rARSbOghXD9Ge6WyEb2p2vvrc",
   },
+  
+];
+export const experiencesDocencia = [
+
+  {
+    id: 0,
+    // img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
+    role: "Asesor - Docente",
+    company: "Colegio de Bachilleres del Estado de Oaxaca, Cobao Plantel 38",
+    date: "Febero - Junio 2024",
+    desc: "Curso de programacion en Java",
+    skills: [
+
+      "Java 11",
+      "Firebase",
+      "MVC",
+      "Consumo de APIs",
+      "Desarollo Web",
+      "Java (springBoot)",
+
+    ],
+    // doc: "https://media.licdn.com/dms/image/D4D2DAQFlp60ZqHuaFQ/profile-treasury-image-shrink_1280_1280/0/1691180828512?e=1692381600&v=beta&t=mM5Y_NE5EPlQhez5FAN6NLVSKcO_Ojt_9Gq3mnFGkAQ",
+  },
+  {
+    id: 0,
+    // img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
+    role: "Docente de asignatura 'A' ",
+    company: "Instituto Tecnologico Superior de San Miguel el Grande",
+    date: "Febero - Junio 2024",
+    desc: "Docente en Ing. En Tic's y Docente de Ing. En Administracion",
+    skills: [
+
+      "Flutter | Dart",
+      "Swift",
+      "Firebase",
+      "Consumo de APIs",
+      "Patron MVC | MVVM y Arquitectura Limpia",
+      "Java (springBoot)",
+    ],
+    // doc: "https://media.licdn.com/dms/image/D4D2DAQFlp60ZqHuaFQ/profile-treasury-image-shrink_1280_1280/0/1691180828512?e=1692381600&v=beta&t=mM5Y_NE5EPlQhez5FAN6NLVSKcO_Ojt_9Gq3mnFGkAQ",
+  },
+ 
   
 ];
 
