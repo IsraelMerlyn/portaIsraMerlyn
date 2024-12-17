@@ -21,10 +21,10 @@ export const Bio = {
    
   ],
   description:
-    "Soy un apasionado programador con 1 año de experiencia. FullStack (React/ Springboot/ Flutter)  y me encanta crear soluciones innovadoras y eficientes. Te invito a explorar mi portafolio y descubrir mis proyectos más recientes.",
+    "Soy un apasionado programador con 1 año de experiencia. FullStack (React | Springboot)  y me encanta crear soluciones innovadoras y eficientes. Te invito a explorar mi portafolio y descubrir mis proyectos más recientes.",
   github: "https://github.com/IsraelMerlyn",
   resume:
-    "https://drive.google.com/file/d/18HD6KKNOLTglzKOov-pH3vxbdtbknADm/view?usp=sharing",
+    "https://drive.google.com/file/d/1x3umgbkfPntgHz_te4c8iL4DCbH_beOl/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/josuevasquez/",
   
   insta: "",
